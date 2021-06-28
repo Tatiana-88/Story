@@ -1,1 +1,1 @@
-So currently, we are inside the working directory which is the story directory.
+So currently, we are inside the working directory which is the story directory.kus
